@@ -1,0 +1,14 @@
+# gtexsltexx-user 5.1.1 LMY47V T285XXU0AQH3 release-keys
+- manufacturer: samsung
+- platform: sc8830
+- codename: gtexslte
+- flavor: gtexsltexx-user
+- release: 5.1.1
+- id: LMY47V
+- incremental: T285XXU0AQH3
+- tags: release-keys
+- fingerprint: samsung/gtexsltexx/gtexslte:5.1.1/LMY47V/T285XXU0AQH3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gtexsltexx-user-5.1.1-LMY47V-T285XXU0AQH3-release-keys
+- repo: samsung_gtexslte_dump
